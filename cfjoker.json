@@ -1,0 +1,13 @@
+{
+	"id": "cfjoker",
+	"name": "CFJoker",
+	"display_name": "CFJoker",
+	"badge_colour": "F16436",
+	"author": ["Darkhax", "Jenny", "CurseForge"],
+	"description": "Unlock the power of mods! This mod adds a Joker that gives one chip for each mod you have installed!",
+	"prefix": "cfjoker",
+	"main_file": "main.lua",
+	"priority": 0,
+	"version": "1.0.0",
+	"dependencies": []
+}
